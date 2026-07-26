@@ -280,7 +280,7 @@ class UserController {
    * MUST INCLUDE EITHER EMAIL OR ID, AND PASSWORD IN THE BODY.
    * ----------------------------------------------
    * 
-   * @body email, password
+   * @body email, id, password
    * @returns status, info, token, user
    * 
    */

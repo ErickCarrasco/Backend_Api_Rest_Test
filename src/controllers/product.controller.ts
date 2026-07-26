@@ -6,7 +6,7 @@ class ProductController {
 		const { query } = req;
 		const {queryPage} = query;
 		try {
-			console.log('queryPage', queryPage);
+			// console.log('queryPage', queryPage);
 			const perpage = 2;//Documents per Page
 			const page = Number(queryPage);//Value through a query param
 
