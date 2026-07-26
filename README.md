@@ -90,7 +90,7 @@ git https://github.com/ErickCarrasco/Backend_Api_Rest_Test.git
 Enter the project
 
 ```bash
-cd test-trial
+cd Backend_Api_Rest_Test
 ```
 
 Install dependencies
