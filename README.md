@@ -84,7 +84,7 @@ Before running the project, make sure you have installed:
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/product-request-api.git
+git https://github.com/ErickCarrasco/Backend_Api_Rest_Test.git
 ```
 
 Enter the project
