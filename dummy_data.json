@@ -1,0 +1,72 @@
+[
+  {
+    "_id": {
+    "$oid": "6a653b5fb42fd614e27f05fd"
+    },
+    "name": "GPS Tracker",
+    "typeCover": "satellite",
+    "description": "A high precision GPS tracker for vehicles and personal use.",
+    "sku": "MOU-001",
+    "price": 49.99,
+    "stock": 25,
+    "category": "Peripherals",
+    "conditions": "New",
+    "isActive": true
+  },
+  {
+    "_id": {
+    "$oid": "6a653b5fb42fd614e27f05fe"
+    },
+    "name": "Alarm Unit",
+    "typeCover": "anti-theft",
+    "description": "A special alarm installed within the vehicle to prevent theft.",
+    "sku": "ALAR-001",
+    "price": 129.99,
+    "stock": 20,
+    "category": "Peripherals",
+    "conditions": "New",
+    "isActive": true
+  },
+  {
+    "_id": {
+    "$oid": "6a653b5fb42fd614e27f05ff"
+    },
+    "name": "Steering wheel locks",
+    "typeCover": "physical-anti-theft",
+    "description": "Bright metal bars (like The Club) or full cover locks that physically block the wheel from turning.",
+    "sku": "SWLOCK-001",
+    "price": 39.99,
+    "stock": 20,
+    "category": "Physical Peripherals",
+    "conditions": "New",
+    "isActive": true
+  },
+  {
+    "_id": {
+    "$oid": "6a653b5fb42fd614e27f0600"
+    },
+    "name": "Pedal and gear locks",
+    "typeCover": "physical-anti-theft",
+    "description": "Devices that lock your brake, clutch, or gear shift in place so the car cannot be driven.",
+    "sku": "PGLOCK-001",
+    "price": 39.99,
+    "stock": 0,
+    "category": "Physical Peripherals",
+    "conditions": "New",
+    "isActive": false
+  },
+  {
+    "_id": {
+    "$oid": "6a653b5fb42fd614e27f0601"
+    },
+    "name": "Faraday pouches / boxes",
+    "typeCover": "signal-protection",
+    "description": "Small, signal-blocking sleeves that hold keyless entry fobs to stop thieves from copying your key's wireless signal.",
+    "sku": "FPKIT-001",
+    "price": 32.99,
+    "stock": 100,
+    "category": "Physical Peripherals",
+    "conditions": "New",
+    "isActive": true
+  }
+]
